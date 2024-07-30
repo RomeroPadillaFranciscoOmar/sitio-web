@@ -81,50 +81,48 @@ export default function ConclusionReferences() {
           </h3>
           <ul className="list-disc list-inside space-y-2">
             <li>
-              Cesuma. (n.d.).{" "}
+              Cesuma. (2023).
               <i>Qué es la protección de los datos personales</i>. Recuperado de
               https://www.cesuma.mx/blog/que-es-la-proteccion-de-los-datos-personales.html
             </li>
             <li>
-              Google. (n.d.). <i>Políticas de privacidad</i>. Recuperado de
+              Google. (2024). <i>Políticas de privacidad</i>. Recuperado de
               https://support.google.com/legal/answer/3463239?hl=es
             </li>
             <li>
-              Gobierno de México. (n.d.).{" "}
+              Gobierno de México. (2024).
               <i>Inscripción de obra literaria o artística</i>. Recuperado de
               https://www.gob.mx/tramites/ficha/inscripcion-de-obra-literaria-o-artistica/INDAUTOR3258
             </li>
             <li>
-              IT Masters. (n.d.).{" "}
+              IT Masters. (2024 ).
               <i>Delitos informáticos en México: ¿Qué dice la ley?</i>{" "}
               Recuperado de
               https://www.itmastersmag.com/ciberseguridad/delitos-informaticos-en-mexico-que-dice-la-ley/#:~:text=Los%20delitos%20inform%C3%A1ticos%20son%20acciones,el%20sabotaje%20de%20sistemas%20inform%C3%A1ticos.
             </li>
             <li>
-              Justia. (n.d.). <i>Delitos informáticos en México</i>. Recuperado
+              Justia. (2024). <i>Delitos informáticos en México</i>. Recuperado
               de https://mexico.justia.com/derecho-penal/delitos-informaticos/
             </li>
             <li>
-              Moor, M. (1985).{" "}
+              Moor, M. (1985).
               <i>Ética informática: Seguridad y autorrealización personal</i>.
               Revista de Ciencias Sociales, 2(1), 45-60. Recuperado de
-              https://ve.scielo.org/scielo.php?script=sci_arttext
-              pid=S1315-99842006000400004#:~:text=Seg%C3%BAn%20Moor%20(1985)%20la%20%C3%A9tica
-              seguridad%20o%20la%20autorrealizaci%C3%B3n%20personal%2C
+              https://ve.scielo.org/scielo.php?script=sci_arttextpid=S1315-99842006000400004#:~:text=Seg%C3%BAn%20Moor%20(1985)%20la%20%C3%A9tica,seguridad%20o%20la%20autorrealizaci%C3%B3n%20personal%2C
             </li>
             <li>
-              Mis Abogados. (n.d.). <i>Qué es la legislación informática</i>.
+              Mis Abogados. (2016). <i>Qué es la legislación informática</i>.
               Recuperado de
               https://www.misabogados.com.co/blog/que-es-la-legislacion-informatica
             </li>
             <li>
-              Rey Abogado. (n.d.).{" "}
+              Rey Abogado.
               <i>Cómo se castiga el delito informático en México</i>. Recuperado
               de
               https://reyabogado.com/mexico/como-se-castiga-el-delito-informatico-en-mexico/
             </li>
             <li>
-              Smowl. (n.d.). <i>Delitos informáticos</i>. Recuperado de
+              Smowl. (2024). <i>Delitos informáticos</i>. Recuperado de
               https://smowl.net/es/blog/delitos-informaticos/
             </li>
           </ul>
