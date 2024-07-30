@@ -74,11 +74,7 @@ export default function ConclusionReferences() {
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold mb-4">Referencias</h2>
         </div>
-
         <section className="mb-8">
-          <h3 className="text-2xl font-semibold mb-2">
-            Referencias en Formato APA
-          </h3>
           <ul className="list-disc list-inside space-y-2">
             <li>
               Cesuma. (2023).
@@ -94,22 +90,12 @@ export default function ConclusionReferences() {
               <i>Inscripción de obra literaria o artística</i>. Recuperado de
               https://www.gob.mx/tramites/ficha/inscripcion-de-obra-literaria-o-artistica/INDAUTOR3258
             </li>
-            <li>
-              IT Masters. (2024 ).
-              <i>Delitos informáticos en México: ¿Qué dice la ley?</i>{" "}
-              Recuperado de
-              https://www.itmastersmag.com/ciberseguridad/delitos-informaticos-en-mexico-que-dice-la-ley/#:~:text=Los%20delitos%20inform%C3%A1ticos%20son%20acciones,el%20sabotaje%20de%20sistemas%20inform%C3%A1ticos.
-            </li>
+
             <li>
               Justia. (2024). <i>Delitos informáticos en México</i>. Recuperado
               de https://mexico.justia.com/derecho-penal/delitos-informaticos/
             </li>
-            <li>
-              Moor, M. (1985).
-              <i>Ética informática: Seguridad y autorrealización personal</i>.
-              Revista de Ciencias Sociales, 2(1), 45-60. Recuperado de
-              https://ve.scielo.org/scielo.php?script=sci_arttextpid=S1315-99842006000400004#:~:text=Seg%C3%BAn%20Moor%20(1985)%20la%20%C3%A9tica,seguridad%20o%20la%20autorrealizaci%C3%B3n%20personal%2C
-            </li>
+
             <li>
               Mis Abogados. (2016). <i>Qué es la legislación informática</i>.
               Recuperado de
