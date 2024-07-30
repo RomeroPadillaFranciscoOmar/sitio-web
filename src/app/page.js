@@ -30,16 +30,16 @@ export default function Portada() {
           <Image
             src="/imagenes-logos/logo1.jpg"
             alt="Logo 1"
-            width={150}
-            height={150}
+            width={100}
+            height={100}
           />
         </div>
         <div className="absolute top-4 right-4">
           <Image
             src="/imagenes-logos/logo2.png"
             alt="Logo 2"
-            width={150}
-            height={150}
+            width={100}
+            height={100}
           />
         </div>
 
