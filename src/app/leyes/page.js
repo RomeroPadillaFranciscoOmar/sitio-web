@@ -61,7 +61,7 @@ export default function LawsPage() {
               </div>
               <div className="relative w-full md:w-1/2 h-64">
                 <Image
-                  src="/leyes/leyes1.jpg"
+                  src="/leyes/leyes2.jpg"
                   alt="Imagen representativa"
                   layout="fill"
                   objectFit="contain"
@@ -73,7 +73,7 @@ export default function LawsPage() {
             <li className="flex flex-col md:flex-row items-start space-y-4 md:space-y-0 md:space-x-4">
               <div className="relative w-full md:w-1/2 h-64">
                 <Image
-                  src="/leyes/leyes2.jpg"
+                  src="/leyes/leyes1.jpg"
                   alt="Imagen representativa"
                   layout="fill"
                   objectFit="contain"
